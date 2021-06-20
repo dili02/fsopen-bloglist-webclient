@@ -3,3 +3,4 @@ App proposed by the program [Full Stack Open](https://fullstackopen.com/en) by t
 
 ## Part 5 Communicating with server
 **a - Login in frontend** Exercices 5.1 to 5.4<br>
+**b - props.children and proptypes** Exercices 5.5 to 5..<br>
